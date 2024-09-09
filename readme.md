@@ -1,4 +1,24 @@
 # Installation Instructions
+This repository provides a comprehensive guide and scripts for setting up a Linux, Nginx, MySQL, and PHP (LNMP) stack. It includes detailed instructions for installing and configuring Nginx, MySQL, phpMyAdmin, and other necessary tools on both Linux and Windows Subsystem for Linux (WSL).
+
+## Features
+
+- **Nginx Installation and Configuration**: Step-by-step instructions to install and configure Nginx.
+- **MySQL Setup**: Guide to install MySQL, set up the root user, and configure phpMyAdmin.
+- **WSL Support**: Instructions tailored for users running WSL.
+- **Automation Scripts**: Scripts to automate domain creation and removal.
+- **Dependency Installation**: Instructions to install Golang, Node.js, and pnpm.
+- **Nginx UI**: Guide to install and configure Nginx UI for easier management.
+- **Online statistics**: Server indicators such as CPU usage, memory usage, load average, and disk usage.
+- **Online ChatGPT Assistant**: Integrated ChatGPT assistant for help.
+- **One-click deployment**: Automatic renewal of Let's Encrypt certificates.
+- **Online editing**: Websites configurations with NgxConfigEditor or Ace Code Editor.
+- **Nginx logs**: Online view of Nginx logs.
+- **Web Terminal**: Access terminal via web interface.
+- **Dark Mode**: Support for dark mode.
+- **Responsive Web Design**: Mobile-friendly design.
+- **Internationalization**: Support for multiple languages.
+
 
 ## Update and Install Nginx
 
@@ -133,7 +153,7 @@ sudo nano /etc/nginx/sites-available/default
 
 
 Replace the configuration with the following and adjust the PHP version as needed:
-[View `sample-default.php` on GitHub](https://github.com/morpheusadam/LNMP/blob/main/var/www/localhost/sample-default.php)
+[SAMPLE_DEFAULT `sample-default.php` on GitHub](https://github.com/morpheusadam/LNMP/blob/main/var/www/localhost/sample-default.php)
 
 
 ### Set Permissions and Ownership
@@ -178,5 +198,14 @@ You can use a beautiful landing page like the example below and place it as `ind
 
 
 
+
+
+
+## Screenshots
+
+![Dashboard](images/dashboard_en.png)
+![Screenshot 1](images/Screenshot\ 2024-09-09\ 181110.png)
+![Screenshot 1](images/Screenshot\ 2024-09-09\ 181110.png)
+![Screenshot 2](dashboard_en.png)
 
 
