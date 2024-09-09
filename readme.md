@@ -204,8 +204,5 @@ You can use a beautiful landing page like the example below and place it as `ind
 ## Screenshots
 
 ![Dashboard](images/dashboard_en.png)
-![Screenshot 1](1.png)
-![Screenshot 2](dashboard_en.png)
-![Screenshot 3](2.png)
-
-
+![Screenshot 1](images/1.png)
+![Screenshot 2](images/2.png)
