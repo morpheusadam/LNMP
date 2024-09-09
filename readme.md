@@ -203,6 +203,6 @@ You can use a beautiful landing page like the example below and place it as `ind
 
 ## Screenshots
 
-![Dashboard](images/dashboard_en.png)
 ![Screenshot 1](images/1.png)
+![Dashboard](images/dashboard_en.png)
 ![Screenshot 2](images/2.png)
